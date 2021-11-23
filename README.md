@@ -1,7 +1,7 @@
 ## Oiii, eu sou a Rafaelle!
 <div align="center">
   <a href="https://github.com/rafaelle-silva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelle-silva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelle-silva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelle-silva&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 </div>
