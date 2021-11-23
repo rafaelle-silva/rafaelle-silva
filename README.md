@@ -1,8 +1,8 @@
 ## Oiii, eu sou a Rafaelle!
 <div align="center">
   <a href="https://github.com/rafaellecristine">
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=rafaellecristine&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellecristine&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=rafaellecristine&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellecristine&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 </div>
 </div>
