@@ -8,8 +8,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon Python" src="https://img.icons8.com/color/48/000000/python--v2.png">
-  <img align="center" alt="Icon HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/912686424497733667/912688404599287848/olafs-frozen-adventure-olaf.gif?width=421&height=364">
 </div>
   ##
