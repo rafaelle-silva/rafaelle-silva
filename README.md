@@ -1,20 +1,35 @@
+## Olá, me chamo Larissa Dalimar!
 
-<div align="center">
-  <a href="https://github.com/rafaellecristine">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellecristine&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-</div>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Icon Python" src="https://img.icons8.com/color/48/000000/python--v2.png">
-</div>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+💻 *Estudante de Ciência da Computação na UFRJ*  
+👩🏿‍💻 *Estagiária de Desenvolvimento no time de Tracking & Experimentation na OLX Brasil 💜*
+
+**Áreas de interesse:** Desenvolvimento Backend e Engenharia de Dados.  
+**Estudando atualmente:** Python, AWS e Java.   
+**Trabalho com:** SQL, Javascript e ReactJS.
+
+Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
+
+<a href="https://www.linkedin.com/in/larissadalimar/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+  <a href="mailto:larissadalimar@gmail.com">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF"
+    />
+  </a>
   
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCnh-aSUvb6snO2Rr65cd3PA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/yw5FYT6g" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rafaelle.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaellecristine" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
+  &nbsp;
+  &nbsp;
+    
+  <div align="center">
+  <a href="https://github.com/larissadalimar">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=larissadalimar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadalimar&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+![Snake animation](https://github.com/larissadalimar/larissadalimar/blob/output/github-contribution-grid-snake.svg)
