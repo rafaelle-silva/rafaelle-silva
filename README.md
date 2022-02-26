@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 💻 *Estudante de Ciência da Computação*  
-👩🏿‍💻 *IT Technician Operations at Johnson & Johnson Medical Devices*
+👩🏿‍💻 *Technician IT Operations at Johnson & Johnson Medical Devices*
 
 **Áreas de interesse:** Desenvolvimento Backend e Salesforce.  
 **Estudando atualmente:** Python, SQL e Salesforce.   
