@@ -16,7 +16,7 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-  <a href="mailto:larissadalimar@gmail.com">
+  <a href="mailto:rafaelle.dev@gmail.com">
     <img
       align="center"
       src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF"
