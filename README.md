@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafaelle!
 
-<img align='right' src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47mopzfk6ywt21jgm17odtrbiaftk3mq6ehwq1rvrc&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://giphy.com/gifs/salesforce-hoodie-suit-up-trailblazer-a6AhHy0NNmsKo1JK1D" width="230">
 
 💻 *Estudante de Ciência da Computação*  
 👩🏿‍💻 *Technician IT Operations at Johnson & Johnson Medical Devices*
