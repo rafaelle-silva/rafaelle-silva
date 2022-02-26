@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafaelle!
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="230">
 
 💻 *Estudante de Ciência da Computação*  
 👩🏿‍💻 *Technician IT Operations at Johnson & Johnson Medical Devices*
